@@ -5,8 +5,11 @@ Credits:
 https://github.com/Smug246 
 
 How to use it?
+
 1.You need python (I use python 3.10 but i think it should also work for any python 3.x)
+
 2.Open cmd and then type cd **the path where the obfuscater is** 
+
 3.Then type obfuscation.py **ur name how you want it** then copy ur path 
 
 example:
