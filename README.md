@@ -14,5 +14,6 @@ How to use it?
 
 example:
 C:\Windows\system32> obfuscation.py test C:\Windows\user\test example
+
 if you need help dm me on discord 
 zpax#5346
